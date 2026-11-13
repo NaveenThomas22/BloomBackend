@@ -35,16 +35,13 @@ public class NotificationSchedulerBackgroundService : BackgroundService
 
                 using var connection = await connFactory.CreateOpenConnectionAsync(stoppingToken);
 
-                const string usersSql = @"
-                   
-SELECT
-    u.id AS UserId,
-    COALESCE(p.timezone, 'Asia/Kolkata') AS Timezone
-FROM users u
-LEFT JOIN user_profiles p ON u.id = p.user_id
-WHERE u.is_active = 1;
-
-
+             const string usersSql = @"
+    SELECT
+        u.id AS UserId,
+        COALESCE(NULLIF(TRIM(p.timezone), ''), 'Asia/Kolkata') AS Timezone
+    FROM users u
+    LEFT JOIN user_profiles p ON u.id = p.user_id
+    WHERE u.is_active = 1;";
                 var activeUsers = (await connection.QueryAsync<(ulong UserId, string Timezone)>(
                     new CommandDefinition(usersSql, cancellationToken: stoppingToken))).ToList();
 
