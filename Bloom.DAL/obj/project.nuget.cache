@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDF1Q+lrnmc=",
+  "success": true,
+  "projectFilePath": "C:\\Bloom\\src\\Bloom.DAL\\Bloom.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NIYAS\\.nuget\\packages\\dapper\\2.1.89\\dapper.2.1.89.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.14\\microsoft.extensions.configuration.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.14\\microsoft.extensions.configuration.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.14\\microsoft.extensions.configuration.binder.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.14\\microsoft.extensions.dependencyinjection.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.14\\microsoft.extensions.diagnostics.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\10.0.14\\microsoft.extensions.diagnostics.healthchecks.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\10.0.14\\microsoft.extensions.diagnostics.healthchecks.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.14\\microsoft.extensions.fileproviders.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.14\\microsoft.extensions.hosting.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.14\\microsoft.extensions.logging.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.options\\10.0.14\\microsoft.extensions.options.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.14\\microsoft.extensions.options.configurationextensions.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.14\\microsoft.extensions.primitives.10.0.14.nupkg.sha512",
+    "C:\\Users\\NIYAS\\.nuget\\packages\\mysqlconnector\\2.6.2\\mysqlconnector.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Bloom\src\Bloom.Core\bin\Debug\net10.0\Bloom.Core.deps.json
+C:\Bloom\src\Bloom.Core\bin\Debug\net10.0\Bloom.Core.dll
+C:\Bloom\src\Bloom.Core\bin\Debug\net10.0\Bloom.Core.pdb
+C:\Bloom\src\Bloom.Core\obj\Debug\net10.0\Bloom.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bloom\src\Bloom.Core\obj\Debug\net10.0\Bloom.Core.AssemblyInfoInputs.cache
+C:\Bloom\src\Bloom.Core\obj\Debug\net10.0\Bloom.Core.AssemblyInfo.cs
+C:\Bloom\src\Bloom.Core\obj\Debug\net10.0\Bloom.Core.csproj.CoreCompileInputs.cache
+C:\Bloom\src\Bloom.Core\obj\Debug\net10.0\Bloom.Core.dll
+C:\Bloom\src\Bloom.Core\obj\Debug\net10.0\refint\Bloom.Core.dll
+C:\Bloom\src\Bloom.Core\obj\Debug\net10.0\Bloom.Core.pdb
+C:\Bloom\src\Bloom.Core\obj\Debug\net10.0\ref\Bloom.Core.dll

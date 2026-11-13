@@ -1,0 +1,15 @@
+C:\Bloom\src\Bloom.BLL\bin\Release\net10.0\Bloom.BLL.deps.json
+C:\Bloom\src\Bloom.BLL\bin\Release\net10.0\Bloom.BLL.dll
+C:\Bloom\src\Bloom.BLL\bin\Release\net10.0\Bloom.BLL.pdb
+C:\Bloom\src\Bloom.BLL\bin\Release\net10.0\Bloom.Core.dll
+C:\Bloom\src\Bloom.BLL\bin\Release\net10.0\Bloom.Core.pdb
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\Bloom.BLL.csproj.AssemblyReference.cache
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\Bloom.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\Bloom.BLL.AssemblyInfoInputs.cache
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\Bloom.BLL.AssemblyInfo.cs
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\Bloom.BLL.csproj.CoreCompileInputs.cache
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\Bloom.BLL.csproj.Up2Date
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\Bloom.BLL.dll
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\refint\Bloom.BLL.dll
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\Bloom.BLL.pdb
+C:\Bloom\src\Bloom.BLL\obj\Release\net10.0\ref\Bloom.BLL.dll
