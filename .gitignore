@@ -1,0 +1,29 @@
+## .NET Build & Artifacts
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+*.binlog
+*.log
+
+## Visual Studio & Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Secrets & Config Overrides
+appsettings.Development.json
+appsettings.Local.json
+*.local
+
+## Frontend (Separate repository)
+frontend/
+node_modules/
+dist/
+
+## OS Files
+.DS_Store
+Thumbs.db
+
