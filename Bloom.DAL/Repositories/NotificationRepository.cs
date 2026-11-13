@@ -321,10 +321,12 @@ public class NotificationRepository : INotificationRepository
     public async Task<SmartNotificationTriggersData> GetSmartTriggerMetricsAsync(ulong userId, DateOnly localDate, CancellationToken ct = default)
     {
         using var connection = await _connectionFactory.CreateOpenConnectionAsync(ct);
-
-        const string dueRevisionsSql = @"
-            SELECT COUNT(*) FROM revision_schedules
-            WHERE user_id = @userId AND is_active = 1 AND scheduled_date <= @date;";
+const string dueRevisionsSql = @"
+    SELECT COUNT(*) FROM revision_schedules
+    WHERE user_id = @userId
+      AND is_deleted = 0
+      AND status = 'Upcoming'
+      AND scheduled_date <= @date;";
 
         const string morningCheckSql = @"
             SELECT COUNT(*) FROM daily_reflections
