@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Bloom.API/Bloom.API.csproj" />
+  <Project Path="Bloom.BLL/Bloom.BLL.csproj" />
+  <Project Path="Bloom.Core/Bloom.Core.csproj" />
+  <Project Path="Bloom.DAL/Bloom.DAL.csproj" />
+</Solution>
