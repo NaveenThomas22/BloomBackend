@@ -64,3 +64,4 @@ C:\Bloom\src\Bloom.API\obj\Debug\net10.0\refint\Bloom.API.dll
 C:\Bloom\src\Bloom.API\obj\Debug\net10.0\Bloom.API.pdb
 C:\Bloom\src\Bloom.API\obj\Debug\net10.0\Bloom.API.genruntimeconfig.cache
 C:\Bloom\src\Bloom.API\obj\Debug\net10.0\ref\Bloom.API.dll
+C:\Bloom\src\bloom.api\obj\Debug\net10.0\Bloom.API.sourcelink.json

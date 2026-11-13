@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bloom.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+322d9c7940be6250f2a60dec3de7e534ce86c7c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bloom.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bloom.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
